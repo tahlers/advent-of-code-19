@@ -14,6 +14,8 @@ repositories {
 dependencies {
     implementation(platform("org.jetbrains.kotlin:kotlin-bom"))
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+    implementation("io.vavr:vavr:0.10.1")
+    implementation("io.vavr:vavr-kotlin:0.10.2")
 
     testImplementation("io.kotlintest:kotlintest-runner-junit5:3.4.2")
 }
