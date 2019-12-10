@@ -45,4 +45,5 @@ class Day9Test : FunSpec({
         result.output shouldBe Vector.of("64236")
     }
 
+
 })
