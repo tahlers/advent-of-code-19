@@ -1,7 +1,6 @@
 package aoc19
 
 import io.vavr.collection.Vector
-import jdk.nashorn.internal.runtime.regexp.joni.constants.OPCode
 
 object Day5 {
 

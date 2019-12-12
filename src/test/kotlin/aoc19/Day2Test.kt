@@ -42,7 +42,7 @@ class Day2Test : StringSpec({
             .toVector()
             .map {it.toInt()}
         val result = Day2.discoverResult(program, 19690720)
-        result shouldBe 1
+        result shouldBe 6421
     }
 
 
