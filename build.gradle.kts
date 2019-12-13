@@ -18,6 +18,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("io.vavr:vavr:0.10.1")
     implementation("io.vavr:vavr-kotlin:0.10.2")
+    implementation("com.googlecode.lanterna:lanterna:3.0.1")
 
     testImplementation("io.kotlintest:kotlintest-runner-junit5:3.4.2")
 }
